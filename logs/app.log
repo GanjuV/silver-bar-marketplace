@@ -1,0 +1,37 @@
+2019-10-22 15:56:09,017 INFO com.sbm.Application [main] Starting Application on LP-5CD8213YZJ with PID 25640 (C:\Users\ganju.v\Documents\springRnD\silver-bar-marketplace\silver-bar-marketplace\build\classes\java\main started by ganju.v in C:\Users\ganju.v\Documents\springRnD\silver-bar-marketplace\silver-bar-marketplace)
+2019-10-22 15:56:09,077 DEBUG com.sbm.Application [main] Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-10-22 15:56:09,077 INFO com.sbm.Application [main] No active profile set, falling back to default profiles: default
+2019-10-22 15:56:32,664 INFO com.sbm.Application [main] Started Application in 31.765 seconds (JVM running for 43.02)
+2019-10-22 15:56:58,028 INFO com.sbm.controller.api.OrderController [http-nio-8080-exec-1] *******In registerOrder method CONTROLLER**********
+2019-10-22 15:56:58,028 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-1] *******In addOrder method SERVICE **********
+2019-10-22 16:29:09,407 DEBUG org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator [background-preinit] Loaded expression factory via original TCCL
+2019-10-22 16:29:10,715 INFO com.sbm.Application [main] Starting Application on LP-5CD8213YZJ with PID 26664 (C:\Users\ganju.v\Documents\springRnD\silver-bar-marketplace\silver-bar-marketplace\build\classes\java\main started by ganju.v in C:\Users\ganju.v\Documents\springRnD\silver-bar-marketplace\silver-bar-marketplace)
+2019-10-22 16:29:10,719 DEBUG com.sbm.Application [main] Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-10-22 16:29:10,719 INFO com.sbm.Application [main] No active profile set, falling back to default profiles: default
+2019-10-22 16:29:24,872 INFO com.sbm.Application [main] Started Application in 18.192 seconds (JVM running for 22.905)
+2019-10-22 16:29:41,593 INFO com.sbm.controller.OrderControllerImpl [http-nio-8080-exec-1] *******In registerOrder method CONTROLLER**********
+2019-10-22 16:29:41,593 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-1] *******In addOrder method SERVICE **********
+2019-10-22 16:30:30,762 INFO com.sbm.Application [main] Starting Application on LP-5CD8213YZJ with PID 7772 (C:\Users\ganju.v\Documents\springRnD\silver-bar-marketplace\silver-bar-marketplace\build\classes\java\main started by ganju.v in C:\Users\ganju.v\Documents\springRnD\silver-bar-marketplace\silver-bar-marketplace)
+2019-10-22 16:30:30,766 DEBUG com.sbm.Application [main] Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-10-22 16:30:30,766 INFO com.sbm.Application [main] No active profile set, falling back to default profiles: default
+2019-10-22 16:30:35,155 INFO com.sbm.Application [main] Started Application in 5.232 seconds (JVM running for 7.845)
+2019-10-22 16:30:55,927 INFO com.sbm.controller.OrderControllerImpl [http-nio-8080-exec-1] *******In registerOrder method CONTROLLER**********
+2019-10-22 16:30:55,927 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-1] *******In addOrder method SERVICE **********
+2019-10-22 16:42:54,667 INFO com.sbm.controller.OrderControllerImpl [http-nio-8080-exec-5] *******In registerOrder method CONTROLLER**********
+2019-10-22 16:42:54,667 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-5] *******In addOrder method SERVICE **********
+2019-10-22 16:43:13,015 INFO com.sbm.controller.OrderControllerImpl [http-nio-8080-exec-6] *******In registerOrder method CONTROLLER**********
+2019-10-22 16:43:13,015 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-6] *******In addOrder method SERVICE **********
+2019-10-22 16:43:51,793 INFO com.sbm.controller.OrderControllerImpl [http-nio-8080-exec-7] *******In registerOrder method CONTROLLER**********
+2019-10-22 16:43:51,793 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-7] *******In addOrder method SERVICE **********
+2019-10-22 16:44:06,735 INFO com.sbm.controller.OrderControllerImpl [http-nio-8080-exec-8] *******In registerOrder method CONTROLLER**********
+2019-10-22 16:44:06,735 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-8] *******In addOrder method SERVICE **********
+2019-10-22 16:44:14,863 INFO com.sbm.controller.OrderControllerImpl [http-nio-8080-exec-9] *******In getSummary method CONTROLLER**********
+2019-10-22 16:44:14,863 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-9] *******In getAllOrders method of SERVICE **********
+2019-10-22 16:44:14,863 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-9] *******In getModifiedMap method of SERVICE **********
+2019-10-22 16:44:14,867 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-9] *******In getModifiedMap method of SERVICE **********
+2019-10-22 16:44:51,832 INFO com.sbm.controller.OrderControllerImpl [http-nio-8080-exec-10] *******In cancelOrder method CONTROLLER**********
+2019-10-22 16:44:51,836 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-10] *******In removeOrder method of SERVICE **********
+2019-10-22 16:45:08,254 INFO com.sbm.controller.OrderControllerImpl [http-nio-8080-exec-2] *******In getSummary method CONTROLLER**********
+2019-10-22 16:45:08,258 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-2] *******In getAllOrders method of SERVICE **********
+2019-10-22 16:45:08,258 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-2] *******In getModifiedMap method of SERVICE **********
+2019-10-22 16:45:08,258 INFO com.sbm.service.OrderServiceImpl [http-nio-8080-exec-2] *******In getModifiedMap method of SERVICE **********
